@@ -1,0 +1,19 @@
+main img{
+    margin-left: 3%;
+}
+main p{
+    margin-left: 1%;
+    width: 38%;
+    display: inline-block;
+}
+
+#price{
+    color: red;
+    width: auto;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 3%;
+    display: inline-block;
+}
